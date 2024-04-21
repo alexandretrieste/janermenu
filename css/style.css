@@ -195,7 +195,7 @@ label {
   color: #FFFFFF;
   font-weight: bold;
   display: block;
-  margin: 0.5rem auto 20px auto; /* Ajuste aqui o espaço entre o botão e o rodapé */
+  margin: 0.5rem auto;
   transition: 0.7s;
 }
 
@@ -234,9 +234,9 @@ label {
   text-align: center;
   display: block;
   margin-left: auto;
-  margin-bottom: 20px; /* Ajuste este valor conforme necessário */
+  margin-bottom: 20px;
   position: relative;
-  z-index: 1; /* Certifique-se de que o botão está em um nível superior */
+  z-index: 1;
 }
 
 #btn-finish:hover {
@@ -286,6 +286,6 @@ footer {
   background-color: #f18c8c;
   color: white;
   text-align: center;
-  padding: 3px 0; /* Ajuste o padding conforme necessário */
-  z-index: 0; /* Certifique-se de que o rodapé está em um nível inferior */
+  padding: 3px 0;
+  z-index: 0;
 }
