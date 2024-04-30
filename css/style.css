@@ -234,7 +234,7 @@ label {
   text-align: center;
   display: block;
   margin-left: auto;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   position: relative;
   z-index: 1;
 }
@@ -286,6 +286,6 @@ footer {
   background-color: #f18c8c;
   color: white;
   text-align: center;
-  padding: 3px 0;
+  padding: 1px 0;
   z-index: 0;
 }
