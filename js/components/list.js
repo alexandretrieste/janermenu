@@ -20,7 +20,7 @@ export class list {
     this.$list.innerHTML = "";
 
     this.$total = 0;
-    this.$content = "*Pedidos*\n\n";
+    this.$content = "*Pedidos Menu NOBIX*\n\n";
     for (let i = 0; i < item.data.length; i++) {
       let $item = item.data[i];
       if ($item.total > 0) {
