@@ -1,7 +1,7 @@
 import { category, item, waAPI } from "./main.js";
 
-waAPI.countryCode = "process.env.countryCode";
-waAPI.number = "process.env.number";
+waAPI.countryCode = 55;
+waAPI.number = 48984935045;
 item.currency = "pt-br";
 
 category.add("Lanches", "lanches");
